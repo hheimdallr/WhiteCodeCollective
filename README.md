@@ -14,7 +14,6 @@ The White Code Collective Manifesto is a call to action for seasoned IT professi
 ## Non-Affiliation Statement
 The White Code Collective is not a political party or organization, nor is it a formal organization of any kind. We are simply an idea, a philosophy embraced by like-minded individuals who share a commitment to protecting the internet, technology, and its users. Our actions are independent, voluntary, and not tied to any formal structure or political agenda.
 
-
 # Role and Responsibilities
 
 ## Definition of a White Code Guardian
@@ -32,7 +31,6 @@ The White Code Collective does not differentiate between large organizations or 
 
 ### Hashtag Representation
 The only visible sign of a Guardian’s commitment is the hashtag #whitecodecollective in their social media profiles. By adding this hashtag, Guardians agree to adhere to the White Code Collective's Code of Standards.
-
 
 ## Core Principles of the White Code Collective
 
@@ -56,7 +54,6 @@ Guardians remain impartial, focusing solely on the protection of internet users,
 
 ### Technology Protection
 Guardians protect people when using technology in general. Whether it is assisting a senior citizen securely typing their PIN number in a supermarket, or protecting someone sharing sensitive information like a social security number online, Guardians take action to prevent potential harm.
-
 
 ## Code of Standards
 
@@ -101,7 +98,6 @@ There should never be a need to retain proof of your assistance or help. If you 
 ### Accountability
 Accept personal responsibility for your actions. By using the hashtag #whitecodecollective, you acknowledge that your actions represent the collective and agree to adhere to this code of standards.
 
-
 ## Instructions on How to Adhere to the Manifesto
 
 ### Understand and Embrace the Core Principles
@@ -137,6 +133,43 @@ Regularly assess your actions and their alignment with the manifesto’s princip
 ### Hashtag Use in Communication
 Guardians can and should use the hashtag #whitecodecollective when communicating with internet and technology users. This is the only moment they will mention the Collective, maintaining the principle of discretion and anonymity.
 
+# Legal Disclaimer
+
+## 1. No Legal Responsibility
+The WhiteCode Collective Manifesto and its principles are a voluntary, non-binding guide. The creators of this manifesto, as well as any individuals or groups identifying as "WhiteCode Guardians," are not liable for any actions taken by participants based on the principles outlined herein. Participants act independently and are solely responsible for their own actions.
+
+## 2. Compliance with Local Laws
+WhiteCode Guardians must comply with all applicable laws and regulations in their respective countries or regions. The manifesto does not endorse or condone any actions that would violate local, national, or international laws.
+
+## 3. Anonymity and Privacy
+Guardians must ensure that their actions do not infringe upon the privacy rights of others and must avoid any activities that unlawfully collect, disclose, or misuse personal data.
+
+## 4. Ethical Conduct
+Guardians are expected to exercise good judgment and integrity in their actions, always prioritizing the well-being and rights of individuals.
+
+## 5. Non-Endorsement
+The WhiteCode Collective Manifesto is a philosophical guide and does not endorse any specific methods, tools, or techniques. Participants are encouraged to use legal, ethical, and responsible means to protect the internet and its users.
+
+## 6. Intellectual Property Rights
+Participants must respect the intellectual property rights of others and avoid infringing on any protected content, materials, or ideas.
+
+## 7. No Collective Liability
+The WhiteCode Collective, as a decentralized and informal network, does not assume any liability for the actions of individual Guardians. Each Guardian operates independently and is fully responsible for their own conduct. The Collective is not a legal entity and cannot be held accountable for any legal disputes, claims, or liabilities arising from the actions of its participants.
+
+## 8. No Legal Representation
+The WhiteCode Collective does not provide legal representation, advice, or assistance in any form. Guardians are advised to seek their own legal counsel if needed and to ensure their actions comply with applicable laws and regulations.
+
+## 9. Independent Actions
+All actions taken by WhiteCode Guardians are conducted independently. The Collective does not monitor, supervise, or control the activities of its members. Therefore, any legal repercussions resulting from a Guardian’s actions are the sole responsibility of that individual, and the Collective disclaims any liability or involvement.
+
+## 10. Dispute Resolution
+In the event of a legal dispute involving a WhiteCode Guardian, the Collective will not participate in or mediate the dispute. Guardians are responsible for resolving any legal issues or disputes on their own, without involving the Collective.
+
+## 11. No Guarantee of Outcomes
+The WhiteCode Collective makes no guarantees regarding the outcomes of any actions taken by Guardians. The effectiveness, legality, and impact of a Guardian's actions are not the responsibility of the Collective.
+
+## 12. Disclaimer of Warranties
+The WhiteCode Collective provides its manifesto, code of conduct, and related materials "as is" without any warranties, either express or implied. The Collective does not guarantee that following these guidelines will prevent harm, legal action, or other negative consequences.
 
 ## Community Guidelines
 
@@ -145,7 +178,6 @@ Guardians are part of a global, decentralized network. They collaborate informal
 
 ### Knowledge Sharing
 Guardians are encouraged to share educational resources and best practices with others while maintaining anonymity.
-
 
 ## Call to Action
 
